@@ -93,7 +93,7 @@ export default function Navbar({ transparent = false }: { transparent?: boolean 
   ];
 
   const socials = [
-    { icon: <DiscordIcon />, label: "Purple Ranked Discord", url: "https://discord.gg/z5zbxCk6EM" },
+    { icon: <DiscordIcon />, label: "Purple Ranked Discord", url: "https://discord.gg/afcXYbuSb7" },
     { icon: <DiscordIcon />, label: "Johnn Discord", url: "https://discord.gg/zhfqSYM25G" },
     { icon: <DiscordIcon />, label: "Purple Prison Discord", url: "https://discord.gg/pp" },
     { icon: <GlobeIcon />, label: "Purple Prison Website", url: "https://www.purpleprison.co/" },
