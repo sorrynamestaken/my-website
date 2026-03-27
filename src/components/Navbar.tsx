@@ -158,7 +158,7 @@ export default function Navbar({ transparent = false }: { transparent?: boolean 
       >
         <img
           src="/logo.png"
-          alt="Johnn Rise Up"
+          alt="Purple Prison Ranked"
           style={{ height: "55px", width: "auto", objectFit: "contain" }}
         />
       </Link>
